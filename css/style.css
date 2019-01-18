@@ -1,0 +1,75 @@
+/*
+			NOTE: Commenting is a bit different in CSS. 
+		  They start with forward-slash + asterisk 
+		  and end with back-slash + asterisk.
+		  */
+    /* h1 heading tag */
+    body {
+        background-color: #efeee7;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #333333;
+    }
+
+    header {
+        background-color: #333333;
+        padding: 1px 15px;
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+      }
+    
+    h1 {
+        font-size: 28px;
+        color: #eee;
+        text-align: center;
+      }
+
+    h2 {
+        margin-top: 15px;
+        margin-bottom: 15px;
+        font-size: 24px;
+        text-align: left;
+      }
+
+    h3 {
+        margin-top: 15px;
+        font-size: 20px;
+        text-align: center;
+      }
+
+    #main-bio {
+        float: left;
+        width: 70%;
+    }
+
+    #contact-info {
+        float: left;
+        line-height: 150%;
+        width: 30%;
+    }
+
+    #bio-text {
+        padding: 15px 0;
+    }
+
+    #bio-image {
+        float: left;
+        padding: 5px 15px;
+        width: 200px;
+    }
+
+    .container {
+        margin: 0 auto;
+        width: 1024px;
+        padding: 10px 0;
+    }
+
+    a.link {
+        color: #d21034;
+    }
+
+      /* All img tags */
